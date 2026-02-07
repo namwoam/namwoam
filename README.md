@@ -7,7 +7,7 @@
   <td>
 
 
-👋 Hi, I’m An-Che, a senior student Major in Information Management at National Taiwan University
+👋 Hi, I’m An-Che, a masters student Major in Information Management at National Taiwan University
 
 👨🏻‍💻 Interested in a wide range of fields such as Embeded Systems, Space Engineering and Artificial Intelligence
 
